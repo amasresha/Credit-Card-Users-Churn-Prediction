@@ -52,14 +52,6 @@ You as a Data scientist at Thera bank need to come up with a classification mode
 
 - ( Avg_Open_To_Buy / Credit_Limit ) + Avg_Utilization_Ratio = 1
 
-### **Please read the instructions carefully before starting the project.**
-This is a commented Jupyter IPython Notebook file in which all the instructions and tasks to be performed are mentioned.
-* Blanks '_______' are provided in the notebook that
-needs to be filled with an appropriate code to get the correct result. With every '_______' blank, there is a comment that briefly describes what needs to be filled in the blank space.
-* Identify the task to be performed correctly, and only then proceed to write the required code.
-* Fill the code wherever asked by the commented lines like "# write your code here" or "# complete the code". Running incomplete code may throw error.
-* Please run the codes in a sequential manner from the beginning to avoid any unnecessary errors.
-* Add the results/observations (wherever mentioned) derived from the analysis in the presentation and submit the same.
 
 
 
